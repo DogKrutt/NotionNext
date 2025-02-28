@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://dog.112112.best' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '访问文档中心获取更多帮助', url: 'https://dog.112112.best' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -28,9 +28,9 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '日常分享', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '私人领域', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '重要提醒', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: '日常分享', url: '/tag/日常分享' },
+  HEO_HERO_CATEGORY_2: { title: '私人领域', url: '/tag/私人领域' },
+  HEO_HERO_CATEGORY_3: { title: '重要提醒', url: '/tag/重要提醒' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -39,21 +39,21 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '你好！我是一只',
+    '毛茸茸的小暖宝 🐶💖',
+    '耳朵竖竖小雷达 🐶💡',
+    '调皮捣蛋小顽童 🐶😜',
+    '胡须翘翘小可爱 🐶😏',
+    '零食追踪小猎手 🐶🍖',
+    '湿鼻嗅嗅小侦探 🐶🐕'
   ],
 
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
+  HEO_INFO_CARD_URL2: 'https://dog.112112.best',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
+  HEO_INFO_CARD_URL3: 'https://dog.112112.best',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
@@ -116,7 +116,7 @@ const CONFIG = {
     }
   ],
 
-  HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
