@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享日常',
   HEO_HERO_TITLE_2: '与心情认知',
-  HEO_HERO_TITLE_3: 'DOG.112112.BEST',
+  HEO_HERO_TITLE_3: 'dog.112112.best',
   HEO_HERO_TITLE_4: '新鲜出炉',
   HEO_HERO_TITLE_5: '记录一只名叫波妞的雪纳瑞',
   HEO_HERO_TITLE_LINK: 'https://dog.112112.best',
