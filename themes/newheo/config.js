@@ -20,17 +20,17 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享日常',
   HEO_HERO_TITLE_2: '与心情认知',
-  HEO_HERO_TITLE_3: 'dog.112112.best',
-  HEO_HERO_TITLE_4: '新鲜出炉',
+  HEO_HERO_TITLE_3: 'DOG.112112.BEST',
+  HEO_HERO_TITLE_4: '私人分享',
   HEO_HERO_TITLE_5: '记录一只名叫波妞的雪纳瑞',
   HEO_HERO_TITLE_LINK: 'https://dog.112112.best',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '日常分享', url: '/tag/日常分享' },
-  HEO_HERO_CATEGORY_2: { title: '私人领域', url: '/tag/私人领域' },
-  HEO_HERO_CATEGORY_3: { title: '重要提醒', url: '/tag/重要提醒' },
+  HEO_HERO_CATEGORY_1: { title: '日常分享', url: '/tag/日常' },
+  HEO_HERO_CATEGORY_2: { title: '私人领域', url: '/tag/私域' },
+  HEO_HERO_CATEGORY_3: { title: '重要提醒', url: '/tag/重要' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -39,7 +39,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是一只',
+    '你好！我是一只→',
     '毛茸茸的小暖宝 🐶💖',
     '耳朵竖竖小雷达 🐶💡',
     '调皮捣蛋小顽童 🐶😜',
