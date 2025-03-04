@@ -64,10 +64,11 @@ const BLOG = {
   // 欢迎语打字效果,Hexo,Matery主题支持, 英文逗号隔开多个欢迎语。
   GREETING_WORDS:
     process.env.NEXT_PUBLIC_GREETING_WORDS ||
-    'Hi，我是一只雪纳瑞, Hi，我是一只叫波妞的雪纳瑞，我是一只狗，欢迎来到我的博客🎉',
+    'Hi，我是一只雪纳瑞, Hi，我是叫波妞，我是一只雪纳瑞，欢迎来到我的博客🎉',
 
   // uuid重定向至 slug
   UUID_REDIRECT: process.env.UUID_REDIRECT || false
 }
 
 module.exports = BLOG
+NEXT_PUBLIC_CLARITY_ID || qiqag34u20
