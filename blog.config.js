@@ -71,4 +71,3 @@ const BLOG = {
 }
 
 module.exports = BLOG
-NEXT_PUBLIC_CLARITY_ID || qiqag34u20
